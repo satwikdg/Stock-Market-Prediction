@@ -2,7 +2,8 @@
 First and foremost you can choose whatever host you are choosing like google colab or jupyther notes.
 
 OVERVIEW
-This is a 10 years of historical price data from Dow jones and the news headlines from New York times articles to predict future prices
+This is a 10 years of historical price data from 
+Dow jones and the news headlines from New York times articles to predict future prices
 
 DEPENDENCIES
 1) pandas
